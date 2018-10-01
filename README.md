@@ -4,4 +4,4 @@
 
 | Blog Post | Code Source |
 |:---------:|:-----------:|
-| [llvm-pass](https://higuoxing.com/archives/llvm-passes) | [llvm-pass](https://github.com/Higuoxing/blog-source) |
+| [llvm-pass](https://higuoxing.com/archives/llvm-passes) | [llvm-pass](https://github.com/Higuoxing/blog-source/tree/master/llvm-passes) |
